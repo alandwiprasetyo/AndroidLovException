@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidLovException</string>
+    <string name="full_error_message">Full Error Message</string>
+    <string name="error_message">Error Message</string>
+</resources>
