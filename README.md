@@ -20,7 +20,7 @@ Library for avoid force close when your application is running and will be taken
     compile 'com.alandwiprasetyo.androidlovexception:androidlovexception:1.0.1'
     ```
 
-2. Add repository on your grandle.
+2. Add repository on your gradle.
     ```groovy
     repositories {
         maven {
