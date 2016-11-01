@@ -31,6 +31,10 @@ Library for avoid force close when your application is running and will be taken
 
 3. Write the following code in your java file.
     ```java
+    AndroidLovException.init(this);
+    ```
+    Or you want to custom Activity class for showing error message
+    ```java
     AndroidLovException.init(this, ExceptionActivity.class);
     ```
 
