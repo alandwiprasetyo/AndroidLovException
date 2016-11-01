@@ -20,7 +20,16 @@ Library for avoid force close when your application is running and will be taken
     compile 'com.alandwiprasetyo.androidlovexception:androidlov exception:1.0.0'
     ```
 
-2. Write the following code in your java file.
+2. Add repository on your grandle.
+    ```groovy
+    repositories {
+        maven {
+            url  "http://dl.bintray.com/alandwiprasetyo/AndroidLovException"
+        }
+    }
+    ```
+
+3. Write the following code in your java file.
     ```java
     AndroidLovException.init(this, ExceptionActivity.class);
     ```

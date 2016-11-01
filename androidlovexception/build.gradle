@@ -3,7 +3,7 @@ apply plugin: 'com.android.library'
 ext {
     PUBLISH_GROUP_ID = "com.alandwiprasetyo.androidlovexception"
     PUBLISH_ARTIFACT_ID = "androidlovexception"
-    PUBLISH_VERSION = "1.0.0"
+    PUBLISH_VERSION = "1.0.1"
 }
 android {
     compileSdkVersion 24
