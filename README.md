@@ -37,7 +37,15 @@ Library for avoid force close when your application is running and will be taken
     ```java
     AndroidLovException.init(this, ExceptionActivity.class);
     ```
-
+    Example :
+    ```java
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        AndroidLovException.init(this);
+        setContentView(R.layout.activity_main);
+    }
+    ```
 # To do
   * Make error message multylanguage
 
