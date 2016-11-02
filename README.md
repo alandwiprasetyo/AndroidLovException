@@ -8,8 +8,8 @@ Library for avoid force close when your application is running and will be taken
     ```xml
     <dependency>
         <groupId>com.alandwiprasetyo.androidlovexception</groupId>
-        <artifactId>androidlov exception</artifactId>
-        <version>1.0.0</version>
+        <artifactId>androidlovexception</artifactId>
+        <version>1.0.1</version>
         <type>pom</type>
     </dependency>
     ```
