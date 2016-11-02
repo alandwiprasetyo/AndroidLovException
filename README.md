@@ -52,9 +52,11 @@ Library for avoid force close when your application is running and will be taken
 # Change Log
 
   **Version 1.0.1**
+
   * Add custom activity exception
 
   **Version 1.0.0**
+
   * Make class for handler exception
 
 # License
