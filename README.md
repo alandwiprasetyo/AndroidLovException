@@ -47,17 +47,17 @@ Library for avoid force close when your application is running and will be taken
     }
     ```
 # To do
-  * Make error message multylanguage
+  * support for Application Class
 
 # Change Log
 
-  **Version 1.0.1**
+**Version 1.0.1**
 
-  * Add custom activity exception
+* Add custom activity exception
 
-  **Version 1.0.0**
+**Version 1.0.0**
 
-  * Make class for handler exception
+* Make class for handler exception
 
 # License
 
